@@ -7,9 +7,9 @@ dependencies:
     - scipy
     - numpy
     - torch
-    -torchvision
-    -opencv-python
-    -opencv-contrib-python
-    -runway-python
-    -gdown
-    -pillow
+    - torchvision
+    - opencv-python
+    - opencv-contrib-python
+    - runway-python
+    - gdown
+    - pillow
