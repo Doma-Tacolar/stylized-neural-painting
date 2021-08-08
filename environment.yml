@@ -1,11 +1,15 @@
 dependencies:
   - python=3
   - pip:
-    - spacy
-    - ipykernel
+    - matplotlib
+    - scikit-image
+    - scikit-learn
     - scipy
     - numpy
-    - scikit-learn
-    - matplotlib
-    - pandas
-    - thinc
+    - torch
+    -torchvision
+    -opencv-python
+    -opencv-contrib-python
+    -runway-python
+    -gdown
+    -pillow
